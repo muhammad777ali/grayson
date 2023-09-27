@@ -138,7 +138,7 @@ body {
 }
 
 .header__content {
-    background: url(../images/header-bg.jpg) no-repeat center / cover;
+    background: url(../images/project-bg.png) no-repeat center / cover;
     height: 750px;
     display: flex;
     align-items: center;
